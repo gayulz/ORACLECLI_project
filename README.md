@@ -4,7 +4,7 @@
 &nbsp;
 &nbsp;
 
-<h1 align="center"> 👩🏻‍💻 Oracle CLI 영회예매 데이터베이스 프로그램 🛢️</h1>
+<h1 align="center"> 👩🏻‍💻 Oracle CLI 영화예매 데이터베이스 프로그램 🛢️</h1>
 &nbsp;
 &nbsp;
 
